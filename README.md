@@ -1,5 +1,5 @@
 # WorldAreas_Chinese
-Raw chinese text for the main areas in across the world-wide area. 世界主要地区的中文地名纯文本
+Raw chinese text for the main areas across the world-wide regions. 世界主要地区的中文地名纯文本
 
 ## Info:
 原始数据及提供来自于： https://github.com/chency148/worldArea
