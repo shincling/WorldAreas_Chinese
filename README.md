@@ -2,9 +2,10 @@
 Raw chinese text for the main areas across the world-wide regions. 世界主要地区的中文地名纯文本
 
 ## Info:
-原始数据及提供来自于： https://github.com/chency148/worldArea
+原始数据及提供来自于： https://github.com/chency147/worldArea
 
-这里根据world-areas进行了简单的格式化和抽取，直接提供最原始的纯文本文件（以.py列表存储）.
+
+这里根据world-areas进行了简单的格式化和抽取，直接提供最原始的纯文本文件（以.py列表存储）, 需要更详细的结构化数据的请移步原始数据的Repo。
 
 纯文本文件可以在大概5个vim命令内处理完成。
 
@@ -37,4 +38,4 @@ PS：也可以直接添加到Jieba的分词词典当中。
 
 
 ## Thanks:
-感谢原作chency148的原始数据来源。
+感谢原作chency147的原始数据来源。
